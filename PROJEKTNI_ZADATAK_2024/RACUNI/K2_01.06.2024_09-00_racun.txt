@@ -1,0 +1,25 @@
+-------------------------------------------------------------
+	 [1m ePJ2 - eMobility kompanija [0m 
+	  Adresa: Javo Javoslava 33.
+	       4892100 Javograd
+	       Tel. 051/633-447
+     ---------------------------------------
+
+   [1m RAČUN ZA IZNAJMLJIVAJE PREVOZNOG SREDSTVA [0m 
+
+- ID iznajmljenog vozila: B1
+- Datum i vrijeme iznajmljivanja: 01.06.2024 09:00
+- Ime korisnika koji je iznajmio vozilo: Petar Bajić (ID: K2)
+- Lokacija na kojoj je vozilo preuzeto: [2][1]
+- Lokacija na kojoj je vozilo ostavljeno: [7][13]
+- Trajanje korištenja: 4s
+- Promocija: DA
+	 - Iznos promocije: 64.0KM
+- Popust: NE
+	 - Iznos popusta: 0.0KM
+- Kvar: Problem sa softverom na prevoznom sredstvu.
+- Datum i vrijeme kvara: 01.06.2024 09:00
+Iznos: 80.0KM
+
+- Ukupna cijena za placanje:  0.0KM
+-------------------------------------------------------------
