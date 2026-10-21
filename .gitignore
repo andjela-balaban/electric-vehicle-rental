@@ -1,0 +1,58 @@
+# ===================================================================
+# .gitignore za Java / JavaFX projekat (ePJ2 e-Mobility kompanija)
+# ===================================================================
+
+# 1. Kompajlirani Java bajtkod (build output)
+bin/
+**/bin/
+*.class
+
+# 2. Eclipse IDE konfiguracija i keš
+.settings/
+**/.settings/
+.metadata/
+**/.metadata/
+*.launch
+build.fxbuild
+
+# Eclipse projektni fajlovi (odkomentarisati ukoliko ne zelite pratiti .project i .classpath)
+# .project
+# **/.project
+# .classpath
+# **/.classpath
+
+# 3. IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+out/
+**/out/
+
+# 4. Visual Studio Code
+.vscode/
+**/.vscode/
+
+# 5. Operativni sistem (macOS & Windows)
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 6. Generisana Javadoc dokumentacija
+doc/
+**/doc/
+
+# 7. Dinamički izlazni fajlovi simulacije (izvršavanje)
+PROJEKTNI_ZADATAK_2024/RACUNI/
+PROJEKTNI_ZADATAK_2024/serijalizacijaNajveciGubitak/
+
+# 8. Log fajlovi i privremeni fajlovi
+*.log
+*.tmp
+*.bak

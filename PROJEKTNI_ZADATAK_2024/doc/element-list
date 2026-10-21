@@ -1,8 +1,0 @@
-module:PROJEKTNI_ZADATAK_2024
-org.unibl.etf.kompanija
-org.unibl.etf.korisnik
-org.unibl.etf.korisnikgenerator
-org.unibl.etf.prevoznasredstva
-org.unibl.etf.prevoznasredstvagenerator
-org.unibl.etf.test
-org.unibl.etf.util
